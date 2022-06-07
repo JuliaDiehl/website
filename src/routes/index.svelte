@@ -13,10 +13,11 @@ Information der breiten Bevölkerung."
     />
 </svelte:head>
 <Container class="mt-0 mt-md-5  pt-3 text-center">
-    <h1 class="h1 mt-0">Good bye Desinformation &mdash; hello CoVerified</h1>
+    <h1 class="h1 mt-0">Mehr digitale Power für alle!</h1>
     <p>
-        Wir machen Informationen im öffentlichen Sektor einfach verfügbar. Für effizientere Verwaltungsprozesse, besser
-        informierte Menschen und eine starke Gesellschaft.
+        Mit den besten Werkzeugen der Digitalisierung entwickeln wir gemeimsam innovative Software-Lösungen. 
+        Für effizientere Prozesse, besser informierte Menschen und eine starke Gesellschaft.
+        Los geht’s!
     </p>
 </Container>
 <video
